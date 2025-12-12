@@ -17,7 +17,7 @@ namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22
             Console.Title = "Спринт #1 | Выполнил: Бузунов А.И. | СМАРТб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
+            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #22                                                             *");
             Console.WriteLine("* Выполнил: Бузунов Андрей Ильич | Смартб-25-1                            *");
@@ -38,4 +38,4 @@ namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22
             Console.ReadLine();
         }
     }
-}
+} 
