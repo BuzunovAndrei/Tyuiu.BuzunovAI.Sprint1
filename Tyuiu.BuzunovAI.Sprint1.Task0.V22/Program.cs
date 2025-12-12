@@ -1,7 +1,7 @@
 ﻿using Tyuiu.BuzunovAI.Sprint1.Task0.V22.Lib;
-namespace Tyuiu.BuzunovAI.Sprint1.Task0.V1
+namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
