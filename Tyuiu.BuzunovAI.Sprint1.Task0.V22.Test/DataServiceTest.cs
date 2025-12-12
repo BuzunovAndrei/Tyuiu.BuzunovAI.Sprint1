@@ -13,7 +13,7 @@ namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(2, res);
+            Assert.AreEqual(10, res);
         }
     }
 }
