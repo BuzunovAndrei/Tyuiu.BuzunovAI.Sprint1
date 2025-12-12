@@ -35,4 +35,4 @@ namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22
             }
         }
     }
-}
+} 

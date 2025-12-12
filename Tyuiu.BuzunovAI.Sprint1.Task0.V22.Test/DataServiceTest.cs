@@ -16,4 +16,4 @@ namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22.Test
             Assert.AreEqual(10, res);
         }
     }
-}
+} 

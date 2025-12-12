@@ -9,4 +9,4 @@ namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22.Lib
             return 6 * 2 - (5 - 3);
         }
     }
-}
+} 
