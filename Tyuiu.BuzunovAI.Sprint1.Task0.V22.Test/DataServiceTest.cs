@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+
 using Tyuiu.BuzunovAI.Sprint1.Task0.V22.Lib;
 
 namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22.Test
@@ -15,4 +16,4 @@ namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22.Test
             Assert.AreEqual(2, res);
         }
     }
-} 
+}
