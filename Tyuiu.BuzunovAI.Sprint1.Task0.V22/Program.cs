@@ -5,8 +5,6 @@ namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22
     {
         static void Main(string[] args)
         {
-
-            {
                 DataService ds = new DataService();
 
                 Console.Title = "Спринт #1| Выполнил: Бузунов А.И.| СМАРТб-25-1";
@@ -32,7 +30,6 @@ namespace Tyuiu.BuzunovAI.Sprint1.Task0.V22
 
                 Console.ReadLine();
 
-            }
         }
     }
 } 
